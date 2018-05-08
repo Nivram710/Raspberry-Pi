@@ -1,3 +1,8 @@
+# Der Code dient zur Steuerung eines Motorsets,
+# das unter folgendem Link erhältlich ist:
+# http://bit.ly/schritt-motor
+
+
 # Benötigten Bibliotheken importieren
 import RPi.GPIO as GPIO
 import time
